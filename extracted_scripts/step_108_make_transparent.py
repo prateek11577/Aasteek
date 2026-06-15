@@ -1,0 +1,2 @@
+"import os\nfrom PIL import Image\n\nassets_dir = r\"d:\\Aasteek\\assets\"\nfor filename in os.listdir(assets_dir):\n    if filename.endswith(\".png\"):\n        filepath = os.path.join(assets_dir, filename)\n        print(f\"Processing {filepath}...\")\n 
+<truncated 795 bytes>

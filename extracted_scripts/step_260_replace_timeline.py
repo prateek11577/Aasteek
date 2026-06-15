@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\n# Desktop CSS replacement\ntarget_desktop = \"\"\"    .timeline {\n      position: relative;\n      max-width: 800px;\n      width: 100%;\n      margin: 0 aut
+<truncated 3667 bytes>

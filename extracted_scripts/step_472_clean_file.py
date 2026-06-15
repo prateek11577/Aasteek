@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    text = f.read()\n\n# Normalize\ntext_norm = text.replace('\\r\\n', '\\n').replace('\\r', '\\n')\n\nlines = text_norm.split('\\n')\ncleaned_lines = []\nfor line in lines:\n    # Let
+<truncated 425 bytes>

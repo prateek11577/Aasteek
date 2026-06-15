@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\n# 1. Desktop CSS Badge Replacement\ntarget_css_desktop = \"\"\"    .tl-item::after {\n      content: '❤';\n      position: absolute;\n      right: -14px;\n 
+<truncated 11265 bytes>

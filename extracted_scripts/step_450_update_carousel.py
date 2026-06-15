@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\n# 1. HTML Replacement\ntarget_html = \"\"\"  <!-- SECRET MEMORY MODAL -->\n  <div class=\"letter-modal\" id=\"secretModal\" onclick=\"closeSecretModal(event)\
+<truncated 8971 bytes>

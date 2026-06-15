@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\ntarget = 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop'\nreplacement = 'assets/love_memory.jpg\" style=\"heigh
+<truncated 351 bytes>

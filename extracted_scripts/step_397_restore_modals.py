@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\ntarget = \"\"\"  <!-- LETTER MODAL -->\n  <div class=\"letter-modal\" id=\"letterModal\" onclick=\"closeLetter(event)\">\n    <div class=\"letter-paper\">\n  
+<truncated 2593 bytes>

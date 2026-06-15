@@ -1,0 +1,2 @@
+"with open(r'd:\\Aasteek\\birthday.html', 'r', encoding='utf-8') as f:\n    content = f.read()\n\n# Normalize spacing\ncontent_norm = content.replace('\\r\\n', '\\n').replace('\\r', '\\n')\n\n# 1. Add CSS rules before </style>\ntarget_style_end = \"  </sty
+<truncated 5895 bytes>
